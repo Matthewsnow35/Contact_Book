@@ -60,3 +60,19 @@ The Simple Contact Book Application is a basic console-based program written in 
 6. **Exit the Application:**
 
    Select the option 6. Exit. The program will save all contacts to the contacts.txt file and exit.
+
+
+## Documentation
+Description
+This project uses Markdown for documentation. Markdown is a lightweight markup language that is easy to write and read. The README.md file serves as the main documentation, providing an overview of the project, instructions for installation and usage, and additional resources.
+
+Additional Resources
+Markdown Guide
+Python Documentation
+
+## Contact and Collaboration
+If you have any questions, suggestions, or would like to collaborate, feel free to contact me:
+
+Email: Matthewsnow35@gmail.com
+GitHub: Matthewsnow35
+I welcome contributions! If you'd like to contribute, please fork the repository and submit a pull request with your changes.
