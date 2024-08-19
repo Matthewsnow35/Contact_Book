@@ -63,7 +63,7 @@ The Simple Contact Book Application is a basic console-based program written in 
 
 
 ## Documentation
-Description
+
 This project uses Markdown for documentation. Markdown is a lightweight markup language that is easy to write and read. The README.md file serves as the main documentation, providing an overview of the project, instructions for installation and usage, and additional resources.
 
 **Additional Resources**
